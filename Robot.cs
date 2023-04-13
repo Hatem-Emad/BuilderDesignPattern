@@ -4,5 +4,6 @@
     {
         public string? Head { get; set; }
         public string? Body { get; set; }
+
     }
 }

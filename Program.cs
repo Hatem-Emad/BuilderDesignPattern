@@ -2,6 +2,7 @@
 {
     internal class Program
     {
+        //to build objects with complex parts
         static void Main(string[] args)
         {
             IRobotBuilder robotBuilder_Old = new OldRobotBuilder();
